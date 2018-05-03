@@ -43,5 +43,18 @@
     "graphql": "^0.13.2",
     "mocha": "^5.1.1",
     "nyc": "^11.7.1"
+  },
+  "nyc": {
+    "check-coverage": false,
+    "per-file": true,
+    "reporter": [
+      "text",
+      "cobertura"
+    ],
+    "all": true,
+    "cache": false,
+    "include": [
+      "src/**/*.js"
+    ]
   }
 }
