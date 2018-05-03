@@ -2,12 +2,12 @@
 Custom GraphQL Types, such as Date and Cursor
 
 ## Install
-`yarn add @limit-zero/graphql-custom-types`
+`yarn add @limit0/graphql-custom-types`
 
 ## Usage
 Within your root resolver file, require the types and add them to the tree, similar to the following:
 ```js
-const { DateType, CursorType } = require('@limit-zero/graphql-custom-types');
+const { DateType, CursorType } = require('@limit0/graphql-custom-types');
 
 const resolvers = {
   Date: DateType,
