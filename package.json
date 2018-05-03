@@ -1,5 +1,5 @@
 {
-  "name": "@limit-zero/graphql-custom-types",
+  "name": "@limit0/graphql-custom-types",
   "version": "1.0.0",
   "description": "Custom GraphQL Types",
   "main": "src/index.js",
