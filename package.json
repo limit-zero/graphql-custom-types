@@ -5,5 +5,14 @@
   "main": "src/index.js",
   "repository": "https://github.com/limit-zero/graphql-custom-types.git",
   "author": "Jacob Bare <jacob@limit0.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "base64-url": "^2.2.0"
+  },
+  "peerDependencies": {
+    "graphql": "^0.13.2"
+  },
+  "devDependencies": {
+    "graphql": "^0.13.2"
+  }
 }
