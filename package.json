@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Custom GraphQL Types",
   "main": "src/index.js",
-  "repository": "https://github.com/limit-zero/graphql-custom-types.git",
+  "repository": "https://github.com/limit-zero/graphql-custom-types",
   "author": "Jacob Bare <jacob@limit0.io>",
   "license": "MIT",
   "scripts": {
@@ -44,6 +44,10 @@
     "mocha": "^5.1.1",
     "nyc": "^11.7.1"
   },
+  "keywords": [
+    "graphql",
+    "types"
+  ],
   "nyc": {
     "check-coverage": false,
     "per-file": true,
