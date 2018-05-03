@@ -1,0 +1,9 @@
+{
+  "name": "@limit-zero/graphql-custom-types",
+  "version": "1.0.0",
+  "description": "Custom GraphQL Types",
+  "main": "src/index.js",
+  "repository": "https://github.com/limit-zero/graphql-custom-types.git",
+  "author": "Jacob Bare <jacob@limit0.io>",
+  "license": "MIT"
+}
