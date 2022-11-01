@@ -1,6 +1,6 @@
 {
   "name": "@limit0/graphql-custom-types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom GraphQL Types",
   "main": "src/index.js",
   "repository": "https://github.com/limit-zero/graphql-custom-types",
